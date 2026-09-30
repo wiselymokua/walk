@@ -118,7 +118,7 @@
                 <h2>Services</h2>
                 <ul class="service-list">
                     <li>
-                        <img src="Services/Web development.png" alt="Website design preview">
+                        <img src="Services/Web development.png" alt="Website development preview">
                         <h3>Basic Website Development</h3>
                         <p>Building websites with HTML, CSS, JavaScript, and React.</p>
                     </li>
