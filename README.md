@@ -23,7 +23,6 @@
             </ul>
         </nav>
     </header>
-
    <main>
         <div class="hero">
             <h3>HELLO I'M WISELY MOKUA</h3>
@@ -51,7 +50,7 @@
                 </ul>
             </div>
 
-  </div>
+ </div>
         <div id="projects">
             <div class="container">
                 <h2>Projects</h2>
@@ -118,7 +117,7 @@
                 <h2>Services</h2>
                 <ul class="service-list">
                     <li>
-                        <img src="Services/Web development.png" alt="Website development preview">
+                        <img src="Services/Web Development.png" alt="A hand reaches toward a glowing digital interface labeled WEB DEVELOPMENT, surrounded by icons for code, cloud services, mobile devices, documents, laptops, and databases on a dark blue connected technology background, creating a modern and innovative atmosphere">
                         <h3>Basic Website Development</h3>
                         <p>Building websites with HTML, CSS, JavaScript, and React.</p>
                     </li>
